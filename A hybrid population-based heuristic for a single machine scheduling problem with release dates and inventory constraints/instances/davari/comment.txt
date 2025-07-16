@@ -1,0 +1,9 @@
+Number of jobs
+initial inventory  inventory’s capacity
+
+columns:
+type =1 (unloading) or =0 (loading)
+processing time
+weight (not used in this paper)
+release dates
+inventory modification
